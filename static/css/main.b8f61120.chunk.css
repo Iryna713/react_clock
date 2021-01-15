@@ -1,0 +1,2 @@
+.clock{justify-content:center;align-items:center;font-size:62px}.app,.clock{display:flex;margin:0 auto}.app{box-sizing:border-box;flex-direction:column;justify-content:space-evenly;width:500px;height:500px;padding:20px;background-color:rgba(142,208,247,.25);border-radius:50%;box-shadow:0 0 350px 0 rgba(0,0,0,.75)}.app__btnBlock{display:flex;justify-content:center}.app__button{background-color:rgba(194,227,247,.75);margin:5px;height:50px;border:1px solid #000}h1{text-align:center}
+/*# sourceMappingURL=main.b8f61120.chunk.css.map */
